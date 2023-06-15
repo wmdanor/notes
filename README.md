@@ -17,7 +17,7 @@ reboot
 #### Import Ubuntu Mainline Kernel Installer PPA
 
 ```bash
-reboot
+sudo add-apt-repository ppa:cappelikan/ppa -y
 ```
 
 #### Update Packages Index
